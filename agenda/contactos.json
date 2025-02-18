@@ -1,0 +1,23 @@
+{
+    "id": 3,
+    "contactos": {
+        "1": {
+            "Id": 1,
+            "Nombre": "nacho",
+            "Telefono": "900125645",
+            "Email": "nacho@gmail.com"
+        },
+        "2": {
+            "Id": 2,
+            "Nombre": "pepe",
+            "Telefono": "952569845",
+            "Email": "pepe@gmail"
+        },
+        "3": {
+            "Id": 3,
+            "Nombre": "juan",
+            "Telefono": "953659845",
+            "Email": "juan@gmail.com"
+        }
+    }
+}
